@@ -1,0 +1,12 @@
+.style{
+    background-color: blue;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.right2{
+     background: orange;
+     padding: 10px 25px;
+     display: inline-block;
+     text-decoration: none;
+}
